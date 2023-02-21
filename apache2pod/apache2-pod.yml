@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: apache2pod3
+  name: apache2pod4
 spec:
   containers:
     - name: apache2
